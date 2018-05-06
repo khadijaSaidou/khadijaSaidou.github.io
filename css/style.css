@@ -21,8 +21,8 @@ body {
 }
 #Background{
   background-repeat: no-repeat;
-	background-size: auto;
-	height: 258px;
+	background-size: covre;
+	height: 500%;
 }
 @media screen and (max-width: 768px) {
   body {
