@@ -19,6 +19,11 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+#Background{
+  background-repeat: no-repeat;
+	background-size: auto;
+	height: 258px;
+}
 @media screen and (max-width: 768px) {
   body {
     background-position: center center;
