@@ -16,16 +16,13 @@ body {
   background: #fff;
   height: 100%;
   position: relative;
-  background-size: contain;
   background-repeat: no-repeat;
   background-attachment:fixed;
+  background-size: 500px 350px;
+
 
 }
-#Background{
-  background-repeat: no-repeat;
-  background-size: covre;
-  height: 500%;
-}
+
 @media screen and (max-width: 768px) {
   body {
     background-position: center center;
