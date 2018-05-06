@@ -16,9 +16,8 @@ body {
   background: #fff;
   height: 100%;
   position: relative;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-attachment:fixed;
-  background-size: 500px 350px;
 
 
 }
