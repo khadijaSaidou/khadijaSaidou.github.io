@@ -16,7 +16,7 @@ body {
   background: #fff;
   height: 100%;
   position: relative;
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 768px) {
