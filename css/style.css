@@ -18,11 +18,13 @@ body {
   position: relative;
   background-size: contain;
   background-repeat: no-repeat;
+  background-attachment:fixed;
+
 }
 #Background{
   background-repeat: no-repeat;
-	background-size: covre;
-	height: 500%;
+  background-size: covre;
+  height: 500%;
 }
 @media screen and (max-width: 768px) {
   body {
